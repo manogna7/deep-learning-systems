@@ -11,8 +11,13 @@ venv/
 artifacts/
 runs/
 data/cifar10/
+data/road-damage/
 *.pt
 *.pth
+*.engine
+*.onnx
+*.tflite
+*_openvino_model/
 
 .idea/
 .vscode/
